@@ -14,6 +14,10 @@
 * VPS推荐搬瓦工，支持支付宝付款： <a href="https://www.4spaces.org/best-details-to-buy-banwagonhost/" target="_blank">史上最详细搬瓦工VPS注册/购买图文教程(内附优惠券)</a>
 * 搬瓦工： <a href="https://www.4spaces.org/bwg/static/promotion.html" target="_blank">当前促销方案</a>
 * 通过此【<a href="https://www.vultr.com/?ref=7365575" target="_blank" rel="noopener noreferrer">链接</a>】注册Vultr VPS，即可获得$100，推荐上新的 <a href="https://www.aliyunhost.net/vultr-korea-datacenter-launch/" target="_blank">Vultr韩国机房</a> 。
+* [2021最新基于nginx搭建v2ray服务端配置vmess+tls+websocket详细教程（图文）](https://www.4spaces.org/install-v2ray-on-debian-2021/);
+* 极力推荐：<a href="https://www.4spaces.org/racknerd-start-tutorial-2021-618/" target="_blank" rel="noopener">racknerd(17.88刀/年，5T流量/月)快速搭建v2ray服务端配置vmess+tls+websocket详细教程（图文）</a>
+
+* <a href="https://www.4spaces.org/racknerd-start-tutorial/" target="_blank" rel="noopener">racknerd(12.79刀/年，3T流量/月)快速搭建v2ray服务端配置vmess+tls+websocket详细教程（图文）</a>
 
 
 2. 安装docker-ce并启动
