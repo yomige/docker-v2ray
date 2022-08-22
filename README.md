@@ -109,3 +109,7 @@ bash init-letsencrypt.sh
 相关配置参考： <a href="https://www.4spaces.org/v2ray-nginx-tls-websocket/" target="_blank" rel="noopener noreferrer">centos7基于nginx搭建v2ray服务端配置vmess+tls+websocket完全手册</a>
 
 交流Telegram群组：[三好学生](https://t.me/goodgoodgoodstudent);
+
+### Infrastructure model
+
+![Infrastructure model](.infragenie/infrastructure_model.png)
